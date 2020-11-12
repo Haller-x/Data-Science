@@ -1,0 +1,51 @@
+Avaliação de modelos:
+    
+    - Nos modelos de classificação:
+        Acurácia: Acertos/Total
+            
+    - Regressão:
+	MAE - mean absolute error
+        RMSE (erro quadrático médio) -> quanto menor melhor!
+        * Erros maiores impactam de forma desproporcional em relação a erros maiores!
+        
+- Matriz de Confusão:
+
+    |-------------|----------------|--------------|
+    |Previsto/Real|    Positivo    |   Negativo   |
+    |-------------|----------------|--------------|
+    |   Positivo  |   Verdadeiro   |   Falso      |
+    |             |  Positivo (TP) | Positivo (FP)|
+    |-------------|----------------|--------------|
+    |   Negativo  |     Falso      |  Verdadeiro  |
+    |             |  Negativo(FN)  | Negativo (TN)|
+    |-------------|----------------|--------------|
+    
+    
+Erro do tipo I (Falso positivo):
+    - Perda de tempo e recursos;
+    - Mudanças desnecessárias;
+    - Você relata suas descobertas como significativas quando na verdade não são (totalmente ao acaso).
+    - Exemplo do homem grávido
+Erro do tipo II (Falso negativo):
+    - Você concluí que não há efeitos significativos quando na verdade há.
+    - Mudanças são necessárias!
+    - Exemplo da mulher grávida que obtém um exame com resultado negativo para gravidez
+
+Acurácia, precisão e recall!P
+
+             TP + TN
+Acurácia = ----------     Frequência que o modelo está correto!
+             Total
+    
+              TP 
+Precisão =  ------        Taxa de acerto do modelo nas observações classificadas como positivas
+             TP+FP
+
+          TP
+    r = -------           True Positive Rate -> Capacidade do modelo em identificar observações como positivas.     
+         TP+FN            Seria a resposta para "Dos pacientes que tem a doença, quantos foram diagnosticados" * ÚTIL na área da saúde.
+
+
+     1/p + 1/r
+F1 = ----------           Média harmonica entre precisão e call - Só faz sentido quando analizada em conjunto com os outros dados
+         2

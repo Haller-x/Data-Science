@@ -1,0 +1,15 @@
+Holdout:
+    - Dividir o dataset entre treino e teste.
+    - Mede a capacidade de generalização do modelo e a estabilidade
+    
+Validação:
+    3ª base -> De forma geral (teorica) serve para avaliar o desempenho do modelo durante a fase de otimização de hiperparâmetros
+  
+Validação Cruzada:
+    - Treina e testa os modelos em partes distintas do dataset (várias divisões do dataset)
+    - Nos fornece uma indicação do quão bem o modelo se sai com novos dados.
+    K-fold:
+        - Consiste em dividir o dataset em "K" grupos, sendo um para validação e k-1 grupos para o treino do modelo.
+        - O modelo treinado é avaliado.
+        - Depois dessa primeira iteração um grupo que anteriormente era de treino torna-se o grupo de validação e o grupo de validação passa a ser o grupo de teste.
+        - Performance do módulo = média da performance de cada iteração

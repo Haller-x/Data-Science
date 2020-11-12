@@ -1,0 +1,8 @@
+O teste A/B é essencialmente um experimento em que:
+    Duas ou mais variantes de uma situação são mostradas aos usuários aleatóriamente,
+    e análise estatística é usada para determinar qual variação apresenta melhor desempenho
+    para uma meta de conversão.
+    
+    O teste A/B também é conhecido como teste de divisão
+    A -> Grupo de Controle (O que já estou fazendo) 
+    B -> Grupo com a variação

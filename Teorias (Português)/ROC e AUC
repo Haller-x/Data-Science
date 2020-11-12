@@ -1,0 +1,16 @@
+ROC -> Receive Operating Characteristic.
+    -> Curva de probabilidade que mostra a performance de classificação.
+    -> Influenciadas por Recall(True Positive Rate) e False Positive Rate (FPR)
+
+                    TP                FP
+            TPR = ------      FPR = -------
+                   TP+FN             FP+FN
+                
+     Curva ROC -> TPR x FPR (variando o threshold)
+    
+     AUC -> Area Under the curve -> medida de separatibilidade. 
+     Se AUC = 1 Perfeito ;
+        AUC = 0.5 Incapaz de separar as classes;
+        AUC = 0 Reultados Opostos.
+     Quanto maior o AUC mais o nosso modelo vai classificar corretamente!
+     

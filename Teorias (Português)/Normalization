@@ -1,0 +1,4 @@
+Normalization formula
+                   X - Xmin
+ X Normalized = -----------------
+                  Xmax - Xmin

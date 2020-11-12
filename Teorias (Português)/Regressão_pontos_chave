@@ -1,0 +1,8 @@
+Premissas da regressão linear:
+    1.Linear entre X e Y
+    2.Ausência de correlação entre os X's
+    3.Erros -> Variancia contante -> Homocedasticidade
+    4.Erros não podem ser correlacionados
+    5.Y e erros -> Distribuição normal. 
+    
+Estabilidade não implica, em necessáriamente, estar certo. Se você erra no treino e continua errando no teste, você é estável!

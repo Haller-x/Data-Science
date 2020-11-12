@@ -1,0 +1,27 @@
+Overfitting:
+    -> Excelente na base de treino, mas pouco se encaixa na base de teste. (Há uma vertente que diz que o overfitting não é necessariamente ruim sempre)
+    
+Underfitting:
+    -> Modelo muito simples, não consegue capturar os padrões e a complexidade dos dados apresentados!
+
+Bias-Variance-Tradeoff
+- Bias: Diferença entre a predição média do modelo e o valor correto esperado
+- Variance: Capacidade de um modelo de se adaptar as bases de treino e ao ruído
+
+* A intensidade do overfitting depende maioritariamente do Bias-Variance-Tradeoff geral.
+
+-Erro irredutível(Ei): Limitação do modelo em prever a totalidade!
+    
+-Algoritmos com alta variance tendem a ser mais COMPLEXOS pois tem uma maior facilidade de se adaptar a qualquer conjunto de dados
+-Ao mesmo tempo, modelos com alto bias são mais limitados!
+
+De forma geral:
+              |   Bias  |  Variance |
+              |---------|-----------|
+    "Complexo"|  baixo  |   Alta    |
+              |----------------------
+     "Simples"|  Alto   |   baixa   |
+    
+Para achar a melhor relação entre o bias e a variance, usamos o Erro de generalização:
+    Erro de generalização = bias² + variance + Ei
+
