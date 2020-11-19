@@ -1,1 +1,1 @@
-# Most datasets are large, so there is a download link for each notebook!
+# Most data sets are large, so there is a link to download data on each notebook!
