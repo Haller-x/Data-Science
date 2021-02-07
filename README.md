@@ -32,4 +32,4 @@
 
 
 ### Loading problems?
-Use:[nbviewer](https://nbviewer.jupyter.org/)**
+Use: [nbviewer](https://nbviewer.jupyter.org/)
