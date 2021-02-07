@@ -3,4 +3,8 @@
 
 2. [MLP for digit recognition](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/RedeNeuralDigitsRecognition.ipynb)
 
-2. [CNN - TransferLearning - Mask & Without Mask](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Mask-detection.ipynb)
+3. [CNN - TransferLearning - Mask & Without Mask](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Mask-detection.ipynb)
+
+4. [CNN - Paper Clip Couting]
+
+
