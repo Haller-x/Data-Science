@@ -7,6 +7,7 @@
 
 ## Cluster models:
 1. [Credit Card - Clustering](https://github.com/Haller-x/Data-Science/blob/main/Cluster%20models/Credit%20Card%20Dataset%20for%20Clustering.ipynb)
+2. [KMeans Cluster: leaves images](https://github.com/Haller-x/Data-Science/blob/main/Cluster%20models/leaf-clustering.ipynb)
 
 ## Data analysis (EDA):
 1. [Netflix Deployed application](https://netflix-eda.herokuapp.com/) - It can take some time to load & render.
@@ -18,13 +19,9 @@
 
 ## Neural networks
 1. [CNN (Keras) for digit recognition](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Keras%20-%20CNN%20-%20Digit%20Recognition.ipynb).
-
 2. [MLP for digit recognition](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/RedeNeuralDigitsRecognition.ipynb)
-
 3. [CNN - TransferLearning - Mask & Without Mask](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Mask-detection.ipynb)
-
 4. [CNN - Keras - Paper Clip Couting](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/paper-clip-counting.ipynb)
-
 
 ## Regression models
 1. [House prices EDA](https://github.com/Haller-x/Data-Science/blob/main/Regression%20models/House%20Price%20prediction.ipynb) - Regression model to predict the final price of each home.
