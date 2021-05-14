@@ -9,4 +9,4 @@
 
 5. [Multiclass Classification - Multi-output Model - Detecting apple diseases](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Multiclassification-multipleoutput.ipynb)
 
-6. [Neural Machine Translation (NMT)]()
+6. [Neural Machine Translation (NMT)](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Neural-Machine-Translation.ipynb)
