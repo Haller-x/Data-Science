@@ -7,4 +7,6 @@
 
 4. [CNN - Keras - Paper Clip Couting](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/paper-clip-counting.ipynb)
 
+5. [Multiclass Classification - Multi-output Model - Detecting apple diseases](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Multiclassification-multipleoutput.ipynb)
+
 
