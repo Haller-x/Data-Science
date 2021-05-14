@@ -25,8 +25,10 @@
 1. [CNN (Keras) for digit recognition](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Keras%20-%20CNN%20-%20Digit%20Recognition.ipynb).
 2. [MLP for digit recognition](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/RedeNeuralDigitsRecognition.ipynb)
 3. [CNN - TransferLearning - Mask & Without Mask](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Mask-detection.ipynb)
-4. [CNN - Keras - Paper Clip Couting](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/paper-clip-counting.ipynb)
-5. [Multiclass Classification - Multi-output Model - Detecting apple diseases](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Multiclassification-multipleoutput.ipynb)
+4. [CNN - Keras](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/paper-clip-counting.ipynb) - Paper Clip Couting - Regression
+5. [Multiclass Classification - Multi-output Model](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Multiclassification-multipleoutput.ipynb) - Model detect apple diseases.
+6. [Neural Machine Translation (NMT)](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Neural-Machine-Translation.ipynb) - Model to translate human readable dates ("25th of June, 2009") into machine readable dates ("2009-06-25").
+
 ## Regression models
 1. [House prices EDA](https://github.com/Haller-x/Data-Science/blob/main/Regression%20models/House%20Price%20prediction.ipynb) - Regression model to predict the final price of each home.
 
