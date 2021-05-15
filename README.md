@@ -28,6 +28,7 @@
 4. [CNN - Keras](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/paper-clip-counting.ipynb) - Paper Clip Couting - Regression
 5. [Multiclass Classification - Multi-output Model](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Multiclassification-multipleoutput.ipynb) - Model detect apple diseases using TransferLearning (Xception).
 6. [Neural Machine Translation (NMT)](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Neural-Machine-Translation.ipynb) - Model to translate human readable dates ("25th of June, 2009") into machine readable dates ("2009-06-25").
+7. 7 [NLP - Sentiment Analysis](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/predicting-twitter.ipynb) - Predicting how travelers in February 2015 expressed their feelings on Twitter.
 
 ## Regression models
 1. [House prices EDA](https://github.com/Haller-x/Data-Science/blob/main/Regression%20models/House%20Price%20prediction.ipynb) - Regression model to predict the final price of each home.
