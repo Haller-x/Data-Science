@@ -11,4 +11,4 @@
 
 6. [Neural Machine Translation (NMT)](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/Neural-Machine-Translation.ipynb)
 
-7 [NLP - Sentiment Analysis](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/predicting-twitter.ipynb) - Predicting how travelers in February 2015 expressed their feelings on Twitter
+7. [NLP - Sentiment Analysis](https://github.com/Haller-x/Data-Science/blob/main/Neural%20networks/predicting-twitter.ipynb) - Predicting how travelers in February 2015 expressed their feelings on Twitter
