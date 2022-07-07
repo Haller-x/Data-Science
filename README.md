@@ -38,10 +38,10 @@
 1. [House prices EDA](https://github.com/Haller-x/Data-Science/blob/main/Regression%20models/House%20Price%20prediction.ipynb) - Regression model to predict the final price of each home.
 
 ## Image2Text
-1. [Image2Text](https://image2texttf2.herokuapp.com/) 
+- [Image2Text](https://image2texttf2.herokuapp.com/) 
 
 ## Audio2Text
-1. [Audio2Text](http://audio2textt.herokuapp.com/)
+- [Audio2Text](http://audio2textt.herokuapp.com/)
 
 
 ### Loading problems?
